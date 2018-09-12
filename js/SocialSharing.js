@@ -26,7 +26,7 @@ function twitterShare(){
   };
 
  function otherShare(){
-   window.plugins.socialsharing.share('To read life best motivational quotes.\nDownload the App Now!\nhttps://play.google.com/store/apps/details?id=com.devsun.hindiquotes', null, null, null);
+   window.plugins.socialsharing.share('To read life best motivational quotes in hindi.\nDownload the App Now!\nhttps://play.google.com/store/apps/details?id=com.devsun.hindiquotes', null, null, null);
   };
 
  function storyShare(id){ 
